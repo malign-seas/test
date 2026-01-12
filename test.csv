@@ -1,15 +1,4 @@
-"Identifier","Title","Implementation Status", "Consumer Responsibility", "Consumer Implementation Required", "Consumer Configuration Required", "Consumer Guidance", "Description"
-"ISM-0263","TLS traffic is inspected","Not Implemented", "Design, Infra Configuration, Monitoring", "Yes", "Yes", "Update Architecture Documentation & Infra Implementation",""
-"ISM-1997", "Board defines clear cyber roles & responsibilities","Not Applicable", "Process", "Yes", "No", "","The board of directors or executive committee ensures that cyber security is integrated throughout all business functions within their organisation."
-"ISM‑1998","Integrate cyber across all business functions","Not Applicable", "Process", "", "", "", "The board of directors or executive committee ensures that cyber security is integrated throughout all business functions within their organisation."
-"ISM-0047","Approval of Organisational-level and System-specific Documentation","Not Implemented","Process","","","","Organisational-level cyber security documentation is approved by the chief information security officer while system-specific cyber security documentation is approved by the system’s authorising officer."
-"ISM-1739","Security Architecture Approved Prior System Development","Not Implementated","","","","","A system’s security architecture is approved prior to the development of the system."
-"ISM-0888","Cyber Security Documentation Annual Review","Not Implementated","","","","","Cyber security documentation is reviewed at least annually and includes a ‘current as at [date]’ or equivalent statement."
-"ISM-1602","Communication of Documentation to Stakeholders","Not Implementated","","","","","Cyber security documentation, including notification of subsequent changes, is communicated to all stakeholders."
-"ISM-0041","System Security Plan","Not Implementated","","","","","Systems have a system security plan that includes an overview of the system (covering the system’s purpose, the system boundary and how the system is managed) as well as an annex that covers applicable controls from this document and any additional controls that have been identified and implemented."
-"ISM-0043","Cyber Security Incident Response Plan","Not Implementated","","","","","Systems have a cyber security incident response plan that covers the following:"
-"ISM-0912","Change and configuration management plan","N/A","Not Assessed","Not Assessed","N/A","Copy from Excel Spreadsheet.
-"ISM-1163","Continuous Monitoring Plan","N/A","Not Assessed","Not Assessed","N/A","Copy from Excel Spreadsheet.
-"ISM-1563","Security Assessment Report","N/A","Not Assessed","Not Assessed","N/A","Copy from Excel Spreadsheet."
-"ISM-1564","Plan of Action and Milestones","N/A","Not Assessed","Not Assessed","N/A","At the conclusion of a security assessment for a system, a plan of action and milestones is produced by the system owner."
-
+"Identifier","Title","Implementation Status", "Consumer Responsibility", "Consumer Implementation Required", "Consumer Configuration Required", "Consumer Guidance"
+"ISM-0263","TLS traffic is inspected","Not Implemented", "Design, Infra Configuration, Monitoring", "Yes", "Yes", "Update Architecture Documentation & Infra Implementation"
+"ISM-1997", "Board defines clear cyber roles & responsibilities","Not Applicable", "Process", "Yes", "No", ""
+"ISM‑1998","Integrate cyber across all business functions","Not Applicable", "Process", "", "", ""
