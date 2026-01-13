@@ -13,3 +13,10 @@
 "ISM-1163","Continuous Monitoring Plan","Not Assessed","","","","","Systems have a continuous monitoring plan that includes: conducting vulnerability scans for systems at least fortnightly; conducting vulnerability assessments and penetration tests for systems prior to deployment, including prior to deployment of significant changes, and at least annually thereafter; analysing identified vulnerabilities to determine their potential impact; implementing mitigations based on risk, effectiveness and cost."
 "ISM-1563","Security Assessment Report","Not Assessed","","","","","At the conclusion of a security assessment for a system, a security assessment report is produced by the assessor and covers: the scope of the security assessment; the system’s strengths and weaknesses; security risks associated with the operation of the system; the effectiveness of the implementation of controls; any recommended remediation actions."
 "ISM-1564","Plan of Action and Milestones","Not Assessed","","","","","At the conclusion of a security assessment for a system, a plan of action and milestones is produced by the system owner."
+Identifier,Title,Implementation Status," ""Consumer Responsibility"""," ""Consumer Implementation Required"""," ""Consumer Configuration Required"""," ""Consumer Guidance""",Description
+ISM-0263,TLS traffic is inspected,Not Implemented," ""Design", Infra Configuration," Monitoring"""," ""Yes"""," ""Yes"""," ""Update Architecture Documentation & Infra Implementation""",TLS traffic communicated through gateways is decrypted and inspected.
+ISM-1997," ""Board defines clear cyber roles & responsibilities""",Not Applicable," ""Process"""," ""Yes"""," ""No"""," """"","When malicious code is detected, the following steps are taken to handle the infection:
+• the infected systems are isolated
+• all previously connected media used in the period leading up to the infection are scanned for signs of infection and isolated if necessary
+• antivirus applications are used to remove the infection from infected systems and media
+• if the infection cannot be reliably removed, systems are restored from a known good backup or rebuilt."
